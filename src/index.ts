@@ -1,5 +1,16 @@
+console.log("---------Bai01---------");
 import "./DinhQuocKhanh_Day1/Bai1";
+console.log("---------Bai02---------");
 import "./DinhQuocKhanh_Day1/Bai2";
+console.log("---------Bai03---------");
 import "./DinhQuocKhanh_Day1/Bai3";
+console.log("---------Bai04---------");
 import "./DinhQuocKhanh_Day1/Bai4";
+console.log("---------Bai05---------");
 import "./DinhQuocKhanh_Day1/Bai5";
+console.log("---------Bai06---------");
+import "./DinhQuocKhanh_Day1/Bai6";
+console.log("---------Bai07---------");
+import "./DinhQuocKhanh_Day1/Bai7";
+console.log("---------Bai08---------");
+import "./DinhQuocKhanh_Day1/Bai8";
