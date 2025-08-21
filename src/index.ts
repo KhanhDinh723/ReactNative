@@ -14,3 +14,5 @@ console.log("---------Bai07---------");
 import "./DinhQuocKhanh_Day1/Bai7";
 console.log("---------Bai08---------");
 import "./DinhQuocKhanh_Day1/Bai8";
+console.log("---------Bai09---------");
+import "./DinhQuocKhanh_Day1/Bai9";
