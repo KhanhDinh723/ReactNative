@@ -14,5 +14,5 @@ export class Rectangle {
   }
 }
 
-const Bai4 = new Rectangle(5.7, 6.7);
+const Bai4 = new Rectangle(5.4, 6.7);
 Bai4.display();
