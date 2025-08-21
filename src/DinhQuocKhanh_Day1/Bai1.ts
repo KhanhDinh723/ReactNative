@@ -6,11 +6,11 @@
 
 export class Person {
   //tao thuoc tinh - attribute
-  name: string;
-  age: number;
+  // name: string;
+  // age: number;
 
   // tao contructor luu gia tri
-  constructor(name: string, age: number) {
+  constructor(public name: string, public age: number) {
     this.name = name;
     this.age = age;
   }
