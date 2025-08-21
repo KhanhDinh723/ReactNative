@@ -1,4 +1,1 @@
-function hello(name :string):string{
-return  `Hello, ${name}`
-}
-console.log(hello("FirstIndex"));
+import "./DinhQuocKhanh_Day1/Bai1";
