@@ -10,11 +10,11 @@ const products: Product[] = [
   new Product("Tablet", 300),
   new Product("Headphones", 50),
   new Product("Smartwatch", 200)
+
 ];
 // Filter products with price > 100
 const filteredProducts = products.filter(product => product.price > 100);
 // Display filtered products
-filteredProducts.forEach(product => {
-    console.log(`Name: ${product.name}, Price: ${product.price}`);
+filteredProducts.forEach(product => {console.log(`Name: ${product.name}, Price: ${product.price}`);
 });
 
