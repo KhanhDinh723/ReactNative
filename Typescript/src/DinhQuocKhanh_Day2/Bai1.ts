@@ -3,8 +3,8 @@
 
 let Bai1 = new Promise((resolve, reject) => {
   setTimeout(() => {
-    resolve("Hello Async");
-  }, 3000);
+    resolve("Hello Async(After 2s)");
+  }, 2000);
 });
 
 Bai1.then((rs) => {
